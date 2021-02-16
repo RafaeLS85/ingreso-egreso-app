@@ -125,5 +125,8 @@
       }
     }
   },
-  "defaultProject": "ingresoEgreso"
+  "defaultProject": "ingresoEgreso",
+  "cli": {
+    "analytics": false
+  }
 }
