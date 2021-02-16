@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ingreso-egresp-app-33d8a": {
+      "hosting": {
+        "ingresoEgreso": [
+          "ingreso-egresp-app-33d8a"
+        ]
+      }
+    }
+  }
+}
